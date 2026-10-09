@@ -8,26 +8,24 @@
 
 ## 📁 Project Overview
 This project presents a **Business Sales Performance Dashboard** built using **Power BI**.  
-It analyzes key business metrics such as **Sales**, **Profit**, **Quantity**, **Shipping Time**, and performance across **Regions**, **Segments**, **Categories**, and **Payment Modes**.
-
-The dashboard helps identify trends, high-performing areas, and actionable insights for business decision-making.
+It provides a comprehensive analysis of sales, profit, quantity, and shipping performance across multiple dimensions — including **region**, **segment**, **category**, and **payment mode**.  
+The dashboard enables data-driven insights for business growth and operational efficiency.
 
 ---
 
 ## 📂 Repository Structure
 
-
+```
 FUTURE_DS_01/
 │
-├── Business_Sales_Performance.pbix        # Power BI dashboard
+├── Task 1 - Business Sales Performance Analytics.pbix        # Power BI dashboard file
 │
-├── datasets/                              # Raw data files used
-│     ├── SuperStore_Sales_Dataset.csv
+├── SuperStore_Sales_Dataset.csv                              # Raw data file used
 │
-├── Dashboard_Screenshot                   # Dashboard images
+├── Dashboard_Screenshot.jpg                                  # Dashboard visual
 │
-└── README.md                              # Documentation
-
+└── README.md                                                 # Documentation
+```
 
 ---
 
@@ -74,52 +72,51 @@ FUTURE_DS_01/
 ---
 
 ### **Trend Analysis**
-- **Monthly Sales (2020):**  
-  - Strong peaks in **October** and **December**  
-- **Profit Trends:**  
-  - Noticeable fluctuations with strong Q4 performance  
-- **Ship Mode Performance:**  
-  - Standard Class leads with 0.33M in sales  
+- **Monthly Sales by Year:**  
+  - Steady growth observed in 2020, peaking in October and December.  
+- **Profit by Year:**  
+  - Profit fluctuations with strong performance in Q4.  
+- **Sales by Ship Mode:**  
+  - Standard Class leads with 0.33M in sales.  
 
 ---
 
 ### **Geographical Insights**
-A map visualization displays **state-wise sales and profit**, with larger circles indicating higher performance.
+The **Profit and Sales by State** map visualizes performance across U.S. states.  
+Larger circles indicate higher sales and profitability, helping identify regional strengths.
 
 ---
 
 ## 💡 Key Insights & Recommendations
 
 ### **Insights**
-- West region contributes the highest share of total sales.  
-- Consumer segment drives nearly half of all revenue.  
+- West region contributes the highest sales share (33%).  
+- Consumer segment drives nearly half of total revenue.  
 - COD is the most preferred payment mode.  
-- Office Supplies and Technology categories show strong profitability.  
-- Seasonal demand spikes occur during October and December.
+- Office Supplies and Technology categories yield strong profits.  
+- Seasonal spikes in October and December indicate holiday-driven demand.
 
 ### **Recommendations**
-- Increase marketing focus in high-performing regions (West & East).  
+- Focus marketing efforts on high-performing regions (West & East).  
 - Expand product offerings in top-performing sub-categories (Phones, Chairs).  
-- Improve shipping efficiency to reduce average ship days.  
-- Promote online payments to reduce COD dependency.
+- Encourage online payments to reduce COD dependency.  
+- Optimize shipping processes to lower average ship days.
 
 ---
 
 ## 🛠 Tools & Technologies Used
-- **Power BI** – Dashboard creation  
-- **CSV** – Data cleaning & preprocessing  
-- **DAX** – Measures & calculated fields  
-- **Data Modeling** – Relationships & hierarchies  
+- **Power BI** – Dashboard creation and visualization  
+- **CSV** – Data preprocessing  
+- **DAX** – Calculated measures and KPIs  
+- **Data Modeling** – Relationships and hierarchies  
 
 ---
 
 ## 🔗 Dashboard Access
-The dashboard has not been published to Power BI Service.
+The dashboard has not been published to Power BI Service.  
+You can explore the full interactive dashboard using the file included in this repository:
 
-You can open and explore the full interactive dashboard using the file included in this repository:
-
-**Business_Sales_Performance.pbix**
-
+**Task 1 - Business Sales Performance Analytics.pbix**
 
 ---
 
@@ -131,6 +128,5 @@ Future Interns – Data Science & Analytics
 
 ## 📝 Submission Notes
 - Repository name follows required format: **FUTURE_DS_01**  
-- Includes: PBIX file, dataset, screenshot, README  
-- Public repository for review and verification  
-
+- Includes: PBIX file, datasets, screenshots, README  
+- Public repository for review and verification
