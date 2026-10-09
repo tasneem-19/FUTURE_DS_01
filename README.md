@@ -6,6 +6,12 @@
 
 ---
 
+## 👨‍💻 Author
+**Khaisar Tasneem Shaik**  
+Future Interns – Data Science & Analytics  
+
+---
+
 ## 📁 Project Overview
 This project presents a **Business Sales Performance Dashboard** built using **Power BI**.  
 It provides a comprehensive analysis of sales, profit, quantity, and shipping performance across multiple dimensions — including **region**, **segment**, **category**, and **payment mode**.  
@@ -117,12 +123,6 @@ The dashboard has not been published to Power BI Service.
 You can explore the full interactive dashboard using the file included in this repository:
 
 **Task 1 - Business Sales Performance Analytics.pbix**
-
----
-
-## 👨‍💻 Author
-**Khaisar Tasneem Shaik**  
-Future Interns – Data Science & Analytics  
 
 ---
 
