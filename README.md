@@ -17,6 +17,9 @@ This project presents a **Business Sales Performance Dashboard** built using **P
 It provides a comprehensive analysis of sales, profit, quantity, and shipping performance across multiple dimensions — including **region**, **segment**, **category**, and **payment mode**.  
 The dashboard enables data-driven insights for business growth and operational efficiency.
 
+## 🖼 Dashboard Preview
+![Super Store Sales Dashboard](Dashboard_Screenshot.jpg)
+
 ---
 
 ## 📂 Repository Structure
